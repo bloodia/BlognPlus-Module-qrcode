@@ -6,7 +6,7 @@ BlognPlusの独自変数（{HOMELINK}や{LOGURL}等）に対応しています�
 著作権表示部の削除、および二次配布以外は、特に制限等は設けません。ご自由にご使用ください。
 
 ## サンプル
-![サンプル](https://www.bloodia.net/files/download/blognplus-module-qrcode.jpg)
+![サンプル](https://www.bloodia.net/files/github/blognplus-module-qrcode.jpg)
 
 ## 動作環境
 Windows環境上の以下のブラウザで正常表示を確認しています。
