@@ -1,4 +1,7 @@
 # BlognPlus-Module-qrcode
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/BlognPlus-Module-qrcode/blob/master/LICENSE)
+
+## 概要
 [BlognPlus（ぶろぐん＋）](http://www.blogn.org "BlognPlus（ぶろぐん＋）")用の任意の文字列をQRコードに変換してスキン上に表示するモジュールです。  
 プリインストールされていたカレンダーモジュールを参考に作成しました。  
 BlognPlusの独自変数（{HOMELINK}や{LOGURL}等）に対応しています。  
